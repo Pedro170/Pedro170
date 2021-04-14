@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Seja bem vindo(a)!</h1><br>
-<p>Eu sou João Pedro!</p>
+<h1>Seja bem vindo(a)!</h1>
+<h2>Eu sou João Pedro!</h2>
