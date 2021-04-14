@@ -18,9 +18,11 @@ Here are some ideas to get you started:
  
 ... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>alguns projetos simples que incremento a partir dos conhecimentos que vou<br>adquirindo.
 <h2>Entre em contato comigo</h2>
+[Linkdin] https://www.linkedin.com/in/pedrosantos170/
 <ul>
 <li>Obrigado por me visitar!</li>
 <ul>
+
 <!--
 <details>
     <summary></summary>
