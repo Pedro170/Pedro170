@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 ... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>alguns projetos simples que incremento a partir dos conhecimentos que vou<br>adquirindo.
 <h2>Entre em contato comigo</h2>
-[Linkdin] https://www.linkedin.com/in/pedrosantos170/
+<img src="https://camo.githubusercontent.com/3cb4f5d9ec596ef8907798a4da24611861cdbed69d0e3b3412b08dd06402e2fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d6c696e6b5f646f5f7365755f70657266696c5f6e6f5f6c696e6b6564696e">https://www.linkedin.com/in/pedrosantos170/</img>
 <ul>
 <li>Obrigado por me visitar!</li>
 <ul>
