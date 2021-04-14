@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h1>Seja bem vindo(a)!</h1><br>
-<h2>Eu sou João Pedro!</h2>
+<p>Eu sou João Pedro!</p>
