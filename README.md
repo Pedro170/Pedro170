@@ -11,6 +11,7 @@ Here are some ideas to get you started:
  -   📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Seja bem vindo(a)!
-Eu sou João Pedro!
 -->
+
+Seja bem vindo(a)!<br>
+Eu sou João Pedro!
