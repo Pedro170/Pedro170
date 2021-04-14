@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1>Seja bem vindo(a)!</h1>
-<h2>Eu sou João Pedro!</h2
+<h2>Eu sou João Pedro!</h2>
  
 ... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>alguns projetos simples que incremento a partir dos conhecimentos que vou<br>adquirindo.
-
+<h2>Entre em contato comigo</h2>
 <ul>
 <li>Obrigado por me visitar!</li>
 <ul>
