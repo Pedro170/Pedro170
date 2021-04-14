@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 <h2>Eu sou João Pedro!</h2
  
 ... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>alguns projetos simples que incremento a partir dos conhecimentos que vou<br>adquirindo.
-
-<img src="https://www.google.com/search?q=imagens%20de%20desenhos%20para%20programador&tbm=isch&hl=pt-BR&tbs=il:ol&sa=X&ved=0CAAQ1vwEahcKEwjQ-KnR5_7vAhUAAAAAHQAAAAAQAg&biw=1349&bih=625#imgrc=0jNQlJ5IIMM9LM">
+<details>
+    <summary></summary>
+ <br> Atualmente sou aluno da generation Brasil
+</details>
+<img src="">
