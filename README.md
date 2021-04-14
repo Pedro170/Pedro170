@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  
 ... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>alguns projetos simples que incremento a partir dos conhecimentos que vou<br>adquirindo.
 
-<img>https://www.google.com/search?q=imagens+de+desenhos+para+programador&sxsrf=ALeKk02s0nNlm4G8QjWXPqpsaGZuNJl3DA:1618439401193&source=lnms&tbm=isch&sa=X&ved=2ahUKEwinx-TM5P7vAhVJEbkGHaMPBXoQ_AUoAXoECAEQAw&biw=1366&bih=625#imgrc=N55bI0cV7mfEzM</img>
+
