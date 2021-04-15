@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.linkedin.com/in/pedrosantos170/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/pedrosantos170/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Pedro170)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](Joaosilva8882.gmail.com)
+
+## Entre em contato comigo
+-Obrigado por me visitar!
