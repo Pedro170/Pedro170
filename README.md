@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.linkedin.com/in/pedrosantos170/)
