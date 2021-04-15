@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <style>
-    .redes-sociais {
-            display: inline;
-    }
-  </style>
+   
 </head>
 <body>
     <h1>Seja bem vindo(a)!</h1>
