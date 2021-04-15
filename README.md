@@ -1,10 +1,7 @@
-<img align="right" width="400" height="400" src="">
-
-
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
 
-... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>
+... Sou um desenvolvedor Java e JavaScript em formação, apaixonado pela<br>
 área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>
 alguns projetos simples que incremento a partir dos conhecimentos que vou<br>
 adquirindo.
