@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
 
-... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela
-área da tecnologia sou um estudante autodidata! Aqui você irá encontrar
+... Sou um desenvolvedor Java e Java Script em formação, apaixonado pela<br>
+área da tecnologia sou um estudante autodidata! Aqui você irá encontrar<br>
 alguns projetos simples que incremento a partir dos conhecimentos que vou
 adquirindo.
 
