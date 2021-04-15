@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Seja bem vindo(a)!
+## Eu sou João Pedro!
