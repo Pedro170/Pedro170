@@ -12,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-   
-</head>
+  
 <body>
     <h1>Seja bem vindo(a)!</h1>
     <h2>Eu sou João Pedro!</h2>
@@ -39,13 +34,10 @@ Here are some ideas to get you started:
       <img src="https://camo.githubusercontent.com/d138b2897652aec51333cc0ac55ee1df99ecc5e67536d2f32a7a374df0158ebd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7365755f656d61696c" alt="logo linkedIn">
   </a>
  </div>
-
+</body>
  <ul>
    <li>Obrigado por me visitar!</li>
  <ul>
-</body>
-</html>
-
 <!--
 <details>
     <summary></summary>
