@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](Joaosilva8882.gmail.com)
 
 ## Entre em contato comigo
--Obrigado por me visitar!
+- Obrigado por me visitar!
