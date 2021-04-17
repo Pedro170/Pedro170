@@ -1,4 +1,4 @@
-<!--<img align="right" width="400" height="400" src="https://imgur.com/vgigKlQ">-->
+<img align="right" width="400" height="400" src="https://storyset.com/illustration/programming/bro#7E57C2FF&hide=&hide=complete">-->
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
