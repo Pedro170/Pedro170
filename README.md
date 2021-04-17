@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://storyset.com/web">-->
+<!--<img align="right" width="400" height="400" src="https://storyset.com/web">-->
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
