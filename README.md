@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" style="border-radius:10%" src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?b=1&k=6&m=947663966&s=170667a&w=0&h=0-Opg1XDa_JrUi2J0XVHSFdb2rnKvc_sjRBUcIU5THE=">
+<img align="right" width="350" height="320" src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?b=1&k=6&m=947663966&s=170667a&w=0&h=0-Opg1XDa_JrUi2J0XVHSFdb2rnKvc_sjRBUcIU5THE=">
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
