@@ -1,4 +1,4 @@
-<!--<img align="right" width="400" height="400" src="https://www.google.com/search?q=software%20engineering%20svg&tbm=isch&tbs=rimg:CQiE1WRfX3qLYSB6vgWXo0s9&hl=pt-BR&sa=X&ved=0CBsQuIIBahcKEwjQ49GGl4TwAhUAAAAAHQAAAAAQBg&biw=1349&bih=625#imgrc=HFM3FwnZK44IEM&imgdii=MqTiwyqQPg3F-M"> -->
+<img align="right" width="400" height="400" src="https://www.pinterest.ie/pin/351843789642345736/"> -->
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
