@@ -1,5 +1,7 @@
 <!--<img align="right" width="400" height="400" src="https://www.pinterest.ie/pin/351843789642345736/"> -->
 
+<img src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?b=1&k=6&m=947663966&s=170667a&w=0&h=0-Opg1XDa_JrUi2J0XVHSFdb2rnKvc_sjRBUcIU5THE=">
+
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
 
