@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1Xko_85qwHvD5w1yqsJek0NeQGCM7OxuT/view?usp=sharing">-->
+<!--<img align="right" width="400" height="400" src="">-->
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
