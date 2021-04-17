@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.pinterest.ie/pin/351843789642345736/"> -->
+<!--<img align="right" width="400" height="400" src="https://www.pinterest.ie/pin/351843789642345736/"> -->
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
