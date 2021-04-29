@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://i.imgur.com/Zt9veYy.jpg" style="border-radius: 50%;">
+<img align="right" width="350" height="350" src="https://i.imgur.com/Gyxtm8F.png">
 
 # Seja bem vindo(a)!
 ## Eu sou João Pedro!
